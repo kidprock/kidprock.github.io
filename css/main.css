@@ -52,6 +52,7 @@ body {
 
 .section > img {
   max-width: 600px;
+	border: 6px solid #f9f1e9;
 }
 
 .section > h5 {
