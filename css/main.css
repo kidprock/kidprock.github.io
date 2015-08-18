@@ -59,7 +59,9 @@ body {
   font-size: 32px;
 }
 
-
+.footer {
+  text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
   .content {

@@ -3,7 +3,17 @@
     'coding': 'Chilling with the Dev Team learning how to code!',
     'basketball': "The road to athleticism. Here I come.",
     'lifting': 'From basketball to the gym. Solid as a rock.',
-    'monkey': 'F is for friends who do stuff together...'
+    'monkey': 'F is for friends who do stuff together...',
+    'cousin': 'Playing with cousin Ben Grimm.',
+    'bluebird': 'Being babysat by Bluebird.',
+    'phones': 'Visiting the phones team. Ohhh yea!',
+    'friends': 'Playing with Ben Grimm and Flint Eastwood.',
+    'slingshot': 'Scared of Slingshot.',
+    'train': 'Riding the train!',
+    'candy': 'Sweet tooth! Having candy!',
+    'massage': 'Getting a massage at the mall!',
+    'riding': 'Going on a joyride through the mall.',
+    'hooters': 'Chicken wings!!'
   };
   var wrapper = $('.js-images');
 
